@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\bin\Debug\net7.0\FullMamba_Data.deps.json
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\bin\Debug\net7.0\FullMamba_Data.runtimeconfig.json
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\bin\Debug\net7.0\FullMamba_Data.dll
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\bin\Debug\net7.0\FullMamba_Data.pdb
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\bin\Debug\net7.0\FullMamba_Core.dll
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\bin\Debug\net7.0\FullMamba_Core.pdb
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\obj\Debug\net7.0\FullMamba_Data.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\obj\Debug\net7.0\FullMamba_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\obj\Debug\net7.0\FullMamba_Data.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\obj\Debug\net7.0\FullMamba_Data.AssemblyInfo.cs
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\obj\Debug\net7.0\FullMamba_Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\obj\Debug\net7.0\FullMamb.EFB73C3C.Up2Date
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\obj\Debug\net7.0\FullMamba_Data.dll
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\obj\Debug\net7.0\refint\FullMamba_Data.dll
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\obj\Debug\net7.0\FullMamba_Data.pdb
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\obj\Debug\net7.0\FullMamba_Data.genruntimeconfig.cache
+C:\Users\Asus\source\repos\FullMamba\FullMamba_Data\obj\Debug\net7.0\ref\FullMamba_Data.dll

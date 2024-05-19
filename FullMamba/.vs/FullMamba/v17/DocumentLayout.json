@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\FullMamba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1007D6-9609-4260-BC6D-7F08DE6D109A}|FullMamba\\FullMamba.csproj|c:\\users\\asus\\source\\repos\\fullmamba\\fullmamba\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1007D6-9609-4260-BC6D-7F08DE6D109A}|FullMamba\\FullMamba.csproj|solutionrelative:fullmamba\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1007D6-9609-4260-BC6D-7F08DE6D109A}|FullMamba\\FullMamba.csproj|c:\\users\\asus\\source\\repos\\fullmamba\\fullmamba\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F1007D6-9609-4260-BC6D-7F08DE6D109A}|FullMamba\\FullMamba.csproj|solutionrelative:fullmamba\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1007D6-9609-4260-BC6D-7F08DE6D109A}|FullMamba\\FullMamba.csproj|c:\\users\\asus\\source\\repos\\fullmamba\\fullmamba\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F1007D6-9609-4260-BC6D-7F08DE6D109A}|FullMamba\\FullMamba.csproj|solutionrelative:fullmamba\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1007D6-9609-4260-BC6D-7F08DE6D109A}|FullMamba\\FullMamba.csproj|c:\\users\\asus\\source\\repos\\fullmamba\\fullmamba\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1007D6-9609-4260-BC6D-7F08DE6D109A}|FullMamba\\FullMamba.csproj|solutionrelative:fullmamba\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1007D6-9609-4260-BC6D-7F08DE6D109A}|FullMamba\\FullMamba.csproj|c:\\users\\asus\\source\\repos\\fullmamba\\fullmamba\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F1007D6-9609-4260-BC6D-7F08DE6D109A}|FullMamba\\FullMamba.csproj|solutionrelative:fullmamba\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1007D6-9609-4260-BC6D-7F08DE6D109A}|FullMamba\\FullMamba.csproj|c:\\users\\asus\\source\\repos\\fullmamba\\fullmamba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1007D6-9609-4260-BC6D-7F08DE6D109A}|FullMamba\\FullMamba.csproj|solutionrelative:fullmamba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F59B240-999F-47CC-BC20-8ACE625CAB2D}|FullMamba_Data\\FullMamba_Data.csproj|c:\\users\\asus\\source\\repos\\fullmamba\\fullmamba_data\\migrations\\20240519154822_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F59B240-999F-47CC-BC20-8ACE625CAB2D}|FullMamba_Data\\FullMamba_Data.csproj|solutionrelative:fullmamba_data\\migrations\\20240519154822_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F59B240-999F-47CC-BC20-8ACE625CAB2D}|FullMamba_Data\\FullMamba_Data.csproj|c:\\users\\asus\\source\\repos\\fullmamba\\fullmamba_data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F59B240-999F-47CC-BC20-8ACE625CAB2D}|FullMamba_Data\\FullMamba_Data.csproj|solutionrelative:fullmamba_data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FullMamba\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FullMamba\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:48:20.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FullMamba\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FullMamba\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:41:01.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FullMamba\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FullMamba\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:18:59.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FullMamba\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FullMamba\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T15:53:08.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FullMamba\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FullMamba\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvzAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:48:53.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240519154822_AddUser.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba_Data\\Migrations\\20240519154822_AddUser.cs",
+              "RelativeDocumentMoniker": "FullMamba_Data\\Migrations\\20240519154822_AddUser.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba_Data\\Migrations\\20240519154822_AddUser.cs",
+              "RelativeToolTip": "FullMamba_Data\\Migrations\\20240519154822_AddUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:48:23.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba_Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FullMamba_Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba_Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "FullMamba_Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:44:46.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba\\Program.cs",
+              "RelativeDocumentMoniker": "FullMamba\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\FullMamba\\FullMamba\\Program.cs",
+              "RelativeToolTip": "FullMamba\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:35:53.041Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
